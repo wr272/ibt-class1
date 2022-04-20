@@ -5,7 +5,7 @@ An example student website, hosted by [GitHub Pages](https://pages.github.com/).
 View live in production at https://prof-rossetti.github.io/student-site.
 
 ![a demonstration of website functionality showing navigation between a few linked pages](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/e3ff575a3afab0f7b4a621a5246d05e51495759d/projects/personal-website/demo.gif)
-
+Hello
 ## Installation
 
 Fork this repo to make a copy under your own control, then clone your forked copy (for example, downloading it onto your Desktop). Locate the directory you downloaded, and open it with your file finder.
